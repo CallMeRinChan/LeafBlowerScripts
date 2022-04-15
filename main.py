@@ -5,6 +5,13 @@
 
 # This is for Leaf Blower Revolution... the idle game, yes... I want this code to dig for me
 
+# All the stuff you need to install:
+# pip install pyautogui
+# pip install pillow
+# pip install keyboard
+# pip install opencv-pythons
+# pip install numpy
+
 # importing modules
 import pyautogui # for writing stuff to the mouse etc. this does a lot of stuff
 import keyboard # for detecting keyboard inputs || also writes stufF?
